@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 911e9c43c83e21b4d8eede0ec8329552
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1785078880635208461
+    second: Octopus Attack_0
+  - first:
+      213: -4749876589372832411
+    second: Octopus Attack_1
+  - first:
+      213: -1179992372755923905
+    second: Octopus Attack_2
+  - first:
+      213: 2370342172879421062
+    second: Octopus Attack_3
+  - first:
+      213: -2776173629065648088
+    second: Octopus Attack_4
+  - first:
+      213: 305772004209596015
+    second: Octopus Attack_5
+  - first:
+      213: -1019113964832100396
+    second: Octopus Attack_6
+  - first:
+      213: -2802685193023061299
+    second: Octopus Attack_7
+  - first:
+      213: 8101152134924598633
+    second: Octopus Attack_8
+  - first:
+      213: 739730016969125141
+    second: Octopus Attack_9
+  - first:
+      213: 5756321650501462250
+    second: Octopus Attack_10
+  - first:
+      213: -5412264331327592793
+    second: Octopus Attack_11
+  - first:
+      213: -7091096687598239906
+    second: Octopus Attack_12
+  - first:
+      213: 961304541081234461
+    second: Octopus Attack_13
+  - first:
+      213: -864553583969531332
+    second: Octopus Attack_14
+  - first:
+      213: -4853991897661702395
+    second: Octopus Attack_15
+  - first:
+      213: 2583259205322938094
+    second: Octopus Attack_16
+  - first:
+      213: 8349394115178063325
+    second: Octopus Attack_17
+  - first:
+      213: 3152515965519761098
+    second: Octopus Attack_18
+  - first:
+      213: -6617406290044982388
+    second: Octopus Attack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Octopus Attack_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d034050c8cfd5c810800000000000000
+      internalID: 1785078880635208461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 271
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5650d7b686c051eb0800000000000000
+      internalID: -4749876589372832411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 274
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c76385033df9fe0800000000000000
+      internalID: -1179992372755923905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 275
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68efa9ac5a525e020800000000000000
+      internalID: 2370342172879421062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 203
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282cbc0bcc0979d0800000000000000
+      internalID: -2776173629065648088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 205
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f661c2d84025e3400800000000000000
+      internalID: 305772004209596015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 210
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfea8c9f316bd1f0800000000000000
+      internalID: -1019113964832100396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc20d9c8aacda19d0800000000000000
+      internalID: -2802685193023061299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96df399e1f21d6070800000000000000
+      internalID: 8101152134924598633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 143
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d632bf78c044a00800000000000000
+      internalID: 739730016969125141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 143
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8a707fa0092ef40800000000000000
+      internalID: 5756321650501462250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a3bc1446c3e4b0800000000000000
+      internalID: -5412264331327592793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ff1c3022d579d90800000000000000
+      internalID: -7091096687598239906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 77
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ced1c036d375d00800000000000000
+      internalID: 961304541081234461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 77
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a8432981d7004f0800000000000000
+      internalID: -864553583969531332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fff3d261823acb0800000000000000
+      internalID: -4853991897661702395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 77
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee618008f8499d320800000000000000
+      internalID: 2583259205322938094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 66
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ece4f5b10fd370800000000000000
+      internalID: 8349394115178063325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace8d81619cffbb20800000000000000
+      internalID: 3152515965519761098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopus Attack_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bee6b2a004a24a0800000000000000
+      internalID: -6617406290044982388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Octopus Attack_0: 1785078880635208461
+      Octopus Attack_1: -4749876589372832411
+      Octopus Attack_10: 5756321650501462250
+      Octopus Attack_11: -5412264331327592793
+      Octopus Attack_12: -7091096687598239906
+      Octopus Attack_13: 961304541081234461
+      Octopus Attack_14: -864553583969531332
+      Octopus Attack_15: -4853991897661702395
+      Octopus Attack_16: 2583259205322938094
+      Octopus Attack_17: 8349394115178063325
+      Octopus Attack_18: 3152515965519761098
+      Octopus Attack_19: -6617406290044982388
+      Octopus Attack_2: -1179992372755923905
+      Octopus Attack_3: 2370342172879421062
+      Octopus Attack_4: -2776173629065648088
+      Octopus Attack_5: 305772004209596015
+      Octopus Attack_6: -1019113964832100396
+      Octopus Attack_7: -2802685193023061299
+      Octopus Attack_8: 8101152134924598633
+      Octopus Attack_9: 739730016969125141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
